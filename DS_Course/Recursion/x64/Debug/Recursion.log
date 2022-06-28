@@ -1,0 +1,4 @@
+﻿  recursiveFunctions.cpp
+D:\Programming\DS_Course\DS_Course\Recursion\recursiveFunctions.cpp(36,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Programming\DS_Course\DS_Course\Recursion\recursiveFunctions.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Recursion.vcxproj -> D:\Programming\DS_Course\DS_Course\x64\Debug\Recursion.exe

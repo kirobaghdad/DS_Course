@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming\DS_Course\DS_Course\LinkedList\Source.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DS_Course.vcxproj -> D:\Programming\DS_Course\DS_Course\x64\Debug\Linked_List.exe
